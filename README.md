@@ -4,7 +4,7 @@
 # 日本語
 
 # 説明
-- AUTOMATIC1111生成で生成されたPNG画像に対して、XnViewのクイック検索でメタデータの検索が可能になります。  
+- AUTOMATIC1111で生成されたPNG画像に対して、XnViewのクイック検索でメタデータの検索が可能になります。  
 - 既存のparametersと同じ内容をCommentに記載することで、XnViewのクイック検索でメタデータの検索が可能となっています。
 - AUTOMATIC1111生成画像であることを識別するために、Comment末尾に「Softwere: Stable Diffusion web UI AUTOMATIC1111」を追加しています。同一ディレクトリにNovel AI生成画像が混在している場合等でも識別が可能です。
 <br><br>
